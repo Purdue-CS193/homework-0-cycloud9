@@ -25,6 +25,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Michael Chen's First CS193 Homework
+- Teaching by students
+- teaching us not only for cs 180 but also for our future career
+- having an online pso section where we can ask for help
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
